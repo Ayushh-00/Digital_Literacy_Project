@@ -58,6 +58,7 @@ Regards,
 [Registration Number] | B.Tech CSE | First Year  
 VIT Bhopal University  
 GitHub:  https://github.com/Ayushh-00
+
 LinkedIn: https://www.linkedin.com/in/ayush-kumar-singh-44a3b63bb/
 ---
 
