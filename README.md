@@ -43,7 +43,7 @@ coding platforms, email etiquette, and cybercrime awareness.
 
 ## Google Form Quiz Link
 
-[Click here to take the Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7cKRtNsEQQ9uV7Fo8QZrolbAxRnlAatb_aeLtkFlZXsQ-Eg/viewform?usp=publish-editor)
+[Click here to take the Digital Literacy Awareness Quiz](https://forms.gle/CJRRNX9Fb7yhZ8tA6)
 
 ---
 
@@ -53,7 +53,7 @@ coding platforms, email etiquette, and cybercrime awareness.
 digital-literacy-project/
 ├── README.md
 ├── report/
-│   └── Project_Report.md
+│   └── Project-report.md
 ├── task-1-presentation/
 │   ├── description.md
 │   └── [infographic image - upload here]
