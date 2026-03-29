@@ -55,7 +55,7 @@ rather than scrambling to create them at placement time.
 
 ## Files in this Folder
 
-- [reflection.md](reflection.md) – This file (platforms, reflection)
-- [github-profile.png](github-profile.png) – Screenshot of GitHub profile 
-- [linkedin-profile.png](linkedin-profile.png) – Screenshot of LinkedIn profile 
-- [kaggle-profile.png](kaggle-profile.png) – Screenshot of Kaggle profile
+- [reflection.md](reflection.md)  – This file (platforms, reflection)
+- [github-profile.png](Github-profile.png) – Screenshot of GitHub profile 
+- [linkedin-profile.png](Linkedin-profile.png) – Screenshot of LinkedIn profile 
+- [kaggle-profile.png](Kaggle-profile.png) – Screenshot of Kaggle profile
