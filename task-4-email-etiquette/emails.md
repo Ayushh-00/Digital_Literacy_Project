@@ -57,9 +57,8 @@ Regards,
 [Your Full Name]  
 [Registration Number] | B.Tech CSE | First Year  
 VIT Bhopal University  
-GitHub: github.com/SouL-GhosT  
-LinkedIn: linkedin.com/in/sakcham-shaw-5889513ba
-
+GitHub:  https://github.com/Ayushh-00
+LinkedIn: https://www.linkedin.com/in/ayush-kumar-singh-44a3b63bb/
 ---
 
 Part B – Reflection
