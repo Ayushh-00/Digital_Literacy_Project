@@ -76,8 +76,8 @@ surveys, and group assignments throughout my B.Tech.
 
 ## Files in this Folder
 
-- [reflection.md] – This file (platforms used, reflection)
-- [HACKERRANK-CHALLANGE.png] – Screenshot of completed HackerRank challenge 
-- [googleform.png] – Screenshot of the Google Form 
-- [googlesheet.png] – Screenshot of the linked Google Sheet response view 
+- [reflection.md](reflection.md) – This file (platforms used, reflection)
+- [HACKERRANK-CHALLANGE.png](HACKERRANK-CHALLANGE.png) – Screenshot of completed HackerRank challenge 
+- [googleform.png](googleform.png) – Screenshot of the Google Form 
+- [googlesheet.png](googlesheet.png) – Screenshot of the linked Google Sheet response view 
 
