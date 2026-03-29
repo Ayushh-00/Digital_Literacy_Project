@@ -62,19 +62,9 @@ LinkedIn: linkedin.com/in/sakcham-shaw-5889513ba
 
 ---
 
-## Part B – Reflection 
+Part B – Reflection
+One real world example of poor digital communication causing problems is the case of a student who sent an angry, informal email to a professor demanding a grade change. The email had no subject line, began with "Hey," used informal language, and made accusations without evidence. The professor forwarded the email to the department head, and the student faced a formal disciplinary discussion.
 
-One real-world example of poor digital communication causing problems is the case
-of a student who sent an angry, informal email to a professor demanding a grade
-change. The email had no subject line, began with "Hey," used informal language, and
-made accusations without evidence. The professor forwarded the email to the department
-head, and the student faced a formal disciplinary discussion.
+What could have been done differently- The student should have waited before sending the email, used a clear and professional subject line, addressed the professor with proper respect, calmly stated their concern with evidence, and requested a meeting rather than making demands in writing.
 
-What could have been done differently: The student should have waited before sending
-the email, used a clear and professional subject line, addressed the professor with
-proper respect, calmly stated their concern with evidence, and requested a meeting
-rather than making demands in writing.
-
-This example highlights that once an email is sent, it becomes a permanent record —
-tone and structure matter just as much as the content itself.
-
+This example highlights that once an email is sent, it becomes a permanent record — tone and structure matter just as much as the content itself.
