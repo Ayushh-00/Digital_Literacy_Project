@@ -20,7 +20,7 @@
 ## Project Overview
 
 This repository contains my Digital Literacy Portfolio completed as part of the
-CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have
+CSE0001 course at VIT Bhopal University. As a Student , I have
 worked through five tasks covering digital tools, professional online presence,
 coding platforms, email etiquette, and cybercrime awareness.
 
