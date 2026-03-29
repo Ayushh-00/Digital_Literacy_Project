@@ -8,7 +8,7 @@
 
 | Field      | Details                       |
 |------------|-------------------------------|
-| Name       |Ayush Kumar Singh              |
+| Name       | AYUSH KUMAR SINGH             |
 | Reg. No.   | 25BCE11163                    |
 | Branch     | B.Tech – CSE                  |
 | Year       | First Year (2025–2026)        |
